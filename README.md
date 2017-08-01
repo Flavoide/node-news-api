@@ -1,9 +1,7 @@
-#Node.js API Testável
+#Node News API
 
-Esse código faz parte da série de videos Node.js API testável disponivel no youtube.
+Simple API for news.
 
-URL: https://www.youtube.com/watch?v=l4glc0XNVbM&list=PLz_YTBuxtxt74aOA2W8ArqZpsPlxP-JC9
+To Run:
 
-Qualquer duvida comente nos videos ou abra issue nesse repositório.
-
-Quem quiser colaborar pode fazer pull request para o código, ficarei grato.
+npm install
